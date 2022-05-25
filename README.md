@@ -11,7 +11,6 @@
 4. Apply clustering or classification techniques to the features to complete the face recognition task.
 
 *Read more about [OpenFace](https://cmusatyalab.github.io/openface/)*
-![Working of OpenCV Face detector](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/openface.jpg)
 
 ## Getting Started
 How to use
