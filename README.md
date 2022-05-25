@@ -1,6 +1,6 @@
 # Face Recognition using OpenCV
  - Create dataset of face images
- - - Detect faces using ```deploy.prototxt``` and ```res10_300x300_ssd_iter_140000.caffemodel```. (Learn more about [face detection](https://github.com/aakashjhawar/face-detection))
+ - - Detect faces using ```deploy.prototxt``` and ```res10_300x300_ssd_iter_140000.caffemodel```. (Learn more about [face detection]
  - Extract face embeddings for each face present in the image using pretrained [OpenFace](https://cmusatyalab.github.io/openface/) model ```openface_nn4.small2.v1.t7```. 
  - Train a SVM model on the face embeddings to recognize faces 
 
@@ -35,9 +35,5 @@ cd face-recognition-using-opencv
 sudo apt-get install python-opencv
 ```
 
-## Results 
-
-#### Detect and recognize faces from video camera-
-![Result](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/output1.png)
 
 
