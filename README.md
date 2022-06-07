@@ -10,15 +10,18 @@ How to use
  - Create dataset of face images.
  - Place the face images in dataset folder.
  - Extract facial embeddings.
-```python extract_embeddings.py```
+```
+python extract_embeddings.py
+```
  - Train the SVM model
-```python train_model.py```
+```
+python train_model.py
+```
  - Test the model
-```python recognize_video.py```
+```
+python recognize_video.py
+```
 
 ## Prerequisites
 - Python 3.5
 - OpenCV
-```
-sudo apt-get install python-opencv
-```
