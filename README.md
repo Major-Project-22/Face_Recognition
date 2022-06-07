@@ -30,6 +30,3 @@ How to use
 ```
 sudo apt-get install python-opencv
 ```
-
-
-
