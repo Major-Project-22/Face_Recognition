@@ -5,22 +5,23 @@
  - Train a SVM model on the face embeddings to recognize faces 
 
 ## Getting Started
+```
 How to use
 ```    
  - Create dataset of face images.
  - Place the face images in dataset folder.
  - Extract facial embeddings.
-```
+
 python extract_embeddings.py
-```
+
  - Train the SVM model
-```
+
 python train_model.py
-```
+
  - Test the model
-```
+
 python recognize_video.py
-```
+
 
 ## Prerequisites
 - Python 3.5
